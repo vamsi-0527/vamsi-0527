@@ -1,112 +1,126 @@
-<!-- ════════ 1. BANNER IMAGE ════════
-CHANGE: your own collage image (see Step 2 of the guide).
-How: in GitHub's editor, drag your PNG into the text box. GitHub inserts a link for you.
-Then paste that link into src="..." below and change the alt text. -->
-<div align="center">
-  <img width="100%" alt="YOUR NAME profile banner" src="PASTE-YOUR-IMAGE-LINK-HERE" />
-</div>
+<!-- ════════════ 👤 PROFILE BANNER ════════════ -->
 
-<!-- ════════ 2. TYPING HEADLINE ════════
-CHANGE the three phrases after lines=  (separate lines with ;  spaces = +  comma = %2C  @ = %40)
-CHANGE color=EF4444 to any hex colour you like (no #). -->
+<!-- ============================= -->
+<!-- 💡 Typing Animation Banner -->
+<!-- ============================== -->
+<img width="1166" height="647" alt="github readme image" src="https://github.com/user-attachments/assets/2f180741-f897-4458-a2b1-9e2399969991" />
+
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=31&duration=2000&pause=800&color=12B3A6&center=true&multiline=true&repeat=false&width=800&height=117&lines=Hi+👋%2C+I'm+YOUR+NAME!;YOUR+ROLE+(e.g.+Web+Developer);YOUR+YEAR+%26+COURSE+%40+YOUR+COLLEGE" alt="Typing headline"/>
-  </a>
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=31&duration=2000&pause=80&color=EF4444&center=true&multiline=true&repeat=false&width=800&height=117&lines=Hi+👋%2C+I'm+Vamshi+Peram!;Software+Developer;" alt="Typing SVG"/>
+    </a>
 </div>
 <br/>
 
-<!-- ════════ 3. ABOUT ME ════════
-CHANGE: one line about what you build, and 1-2 sentences about what you work on. Keep it true. -->
+<!-- ════════════ 📌 ABOUT ME ════════════ -->
 <div align="center">
-  <h3>YOUR ONE-LINE TAGLINE ✨</h3>
-  <p>I work with YOUR MAIN AREAS (for example: web development, Python and data analysis).<br/>YOUR SECOND SENTENCE ABOUT WHAT YOU ENJOY BUILDING.</p>
+    <h3>Building clean, intuitive and scalable applications ✨</h3>
+    <p>I work across software development, machine learning and UI/UX design.<br/>I love turning ideas into polished, usable products.</p>
 </div>
 <br/>
 
-<!-- ════════ 4. QUICK FACTS (optional) ════════
-Your friend left this empty. Fill it in or delete the whole block. -->
+<!-- ════════════ 🚀 QUICK FACTS ════════════ -->
 <div align="center">
 
-🔭 Currently building: **YOUR PROJECT** &nbsp;|&nbsp; 🌱 Learning: **YOUR TOPIC** &nbsp;|&nbsp; 📍 **YOUR CITY**
+
 
 </div>
+
 <br/>
 
-<!-- ════════ 5. SKILLS ════════
-KEEP ONLY the tools you have really used. DELETE every other line.
-Badge pattern: https://img.shields.io/badge/NAME-HEXCOLOUR?style=for-the-badge&logo=LOGONAME&logoColor=white
-Find logo names at simpleicons.org -->
+<!-- ════════════ 💻 SKILLS & TOOLS ════════════ -->
 <details open>
 <summary><b>💻 Skills & Tools</b></summary>
 <br>
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 
-**Web**
+**Frontend Development**
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 
-**Databases**
+**Backend Development**
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)&nbsp;
+
+**Database & Cloud**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
 
-**Tools**
+**DevOps & Tools**
 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
+
+**Design & Other Tools**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)&nbsp;
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)&nbsp;
 
 </details>
 
 <br/>
 
-<!-- ════════ 6. CONNECT ════════
-CHANGE: LinkedIn link, email (or delete the email badge if you prefer privacy), GitHub username. -->
+
+<!-- ════════════ 🤝 CONNECT WITH ME ════════════ -->
 ## 🤝 Connect With Me
 
 <div align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-ID" target="_blank">
+  <a href="https://www.linkedin.com/in/vamshi-peram-71ba5a320/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:YOUR-EMAIL@example.com">
+  <a href="mailto:vamshi.peram0410@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/YOUR-USERNAME" target="_blank">
+  <a href="https://github.com/vamsi-0527" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
 
 <br/>
 
-<!-- ════════ 7. RESUME ════════
-CHANGE: paste your own shareable link (Google Drive: Share, then "Anyone with the link", Viewer).
-Delete this whole block if you have no resume yet. -->
+<!-- ════════════ 📄 RESUME ════════════ -->
 ## 📄 Resume
 
 <div align="left">
-  <a href="PASTE-YOUR-RESUME-LINK" target="_blank">
+  <a href="https://drive.google.com/file/d/1KPk_L7UHneA3NXaHHlw4tz2aX0TkpJKU/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/View_Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
   </a>
 </div>
 
 <br/>
 
-<!-- ════════ 8. PROFILE VIEWS (optional) ════════
-CHANGE: username=YOUR-USERNAME. Delete if you do not want a counter. -->
+<!-- ════════════ 💬 RANDOM DEV QUOTE ════════════ -->
+## 💬 Random Dev Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+
+<br/>
+
+<!-- ════════════ 📈 PROFILE VIEWS ════════════ -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=hemanth-chakravarthy&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </div>
 
-<!-- ════════ 9. FOOTER ════════
-CHANGE: your name and username -->
+<!-- ════════════ © HEMANTH CHAKRAVARTHY KANCHARLA ════════════ -->
 <div align="center">
   <br/>
-  <p>⭐️ From <a href="https://github.com/YOUR-USERNAME">YOUR NAME</a></p>
+  <p>⭐️ From <a href="https://github.com/vamsi-0527">Vamshi Peram</a></p>
 </div>
