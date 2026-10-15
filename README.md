@@ -3,7 +3,7 @@
 <!-- ============================= -->
 <!-- 💡 Typing Animation Banner -->
 <!-- ============================== -->
-<img width="1166" height="647" alt="github readme image" src="https://github.com/user-attachments/assets/2f180741-f897-4458-a2b1-9e2399969991" />
+<img width="1280" height="720" alt="Vamshi Peram — Neon profile" src="https://github.com/user-attachments/assets/d0d2ca21-59e7-4218-9fe4-19605dcf82ca" />
 
 <div align="center">
     <a href="https://git.io/typing-svg">
