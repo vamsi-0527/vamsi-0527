@@ -3,7 +3,47 @@
 <!-- ============================= -->
 <!-- 💡 Typing Animation Banner -->
 <!-- ============================== -->
-<img width="1280" height="720" alt="Vamshi Peram — Neon profile" src="https://github.com/user-attachments/assets/d0d2ca21-59e7-4218-9fe4-19605dcf82ca" />
+
+
+
+
+
+
+<div align="center">
+<table>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="mailto:vamshi.peram0410@gmail.com">
+        <img src="https://github.com/user-attachments/assets/723612a6-b635-45a5-a626-46e540bca335" width="410" alt="Hello, I'm Vamshi Peram. Let's connect." />
+      </a>
+    </td>
+    <td rowspan="2" align="center" valign="top">
+      <img src="https://github.com/user-attachments/assets/d34cc638-0096-46f9-9115-4274cd2f7aa3" width="290" alt="Vamshi Peram" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/vamshi-peram-71ba5a320/">
+        <img src="https://github.com/user-attachments/assets/cc86ac36-ce53-4401-8f0f-758d07123849" width="198" alt="LinkedIn: vamshi-peram-71ba5a320" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/vamsi-0527">
+        <img src="https://github.com/user-attachments/assets/2b47254b-f763-4abe-9fde-9211dc5f110e" width="198" alt="GitHub: vamsi-0527" />
+      </a>
+    </td>
+  </tr>
+</table>
+</div>
+
+
+
+
+
+
+
+
+
 
 <div align="center">
     <a href="https://git.io/typing-svg">
